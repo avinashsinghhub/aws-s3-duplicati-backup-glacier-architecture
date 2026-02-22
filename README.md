@@ -22,7 +22,7 @@ Design and implement a secure, automated, scalable, and cost-optimized cloud bac
 
 ## Architecture Overview
 
-![Architecture Diagram](architecture/architecture-diagram.png)
+![Architecture Diagram](architecture/AAFM backup.png)
 
 ### Logical Flow
 
