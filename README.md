@@ -102,4 +102,4 @@ The solution delivers:
 ---
 
 Author: Avinash Singh  
-Cloud Architecture | AWS Infrastructure | Cost Optimization
+Cloud Architecture | AWS Infrastructure | Backup Solution
