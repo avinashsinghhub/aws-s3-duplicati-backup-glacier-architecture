@@ -7,7 +7,7 @@ Cloud Platform: Amazon Web Services (AWS)
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 Design and implement a secure, automated, scalable, and cost-optimized cloud backup solution with:
 
@@ -20,7 +20,7 @@ Design and implement a secure, automated, scalable, and cost-optimized cloud bac
 
 ---
 
-## 🏗 Architecture Overview
+## Architecture Overview
 
 ![Architecture Diagram](architecture/architecture-diagram.png)
 
@@ -34,7 +34,7 @@ Endpoint Systems (Windows / Linux / macOS)
 
 ---
 
-## 🔐 Security Controls
+## Security Controls
 
 - IAM least-privilege access (prefix-restricted)
 - Programmatic access only (no console login)
@@ -45,7 +45,7 @@ Endpoint Systems (Windows / Linux / macOS)
 
 ---
 
-## 🗂 Storage Strategy
+## Storage Strategy
 
 ### S3 Standard
 - Initial backup ingestion
@@ -58,7 +58,7 @@ Endpoint Systems (Windows / Linux / macOS)
 
 ---
 
-## 🔄 Retention Strategy (Duplicati)
+## Retention Strategy (Duplicati)
 
 7D:1D,4W:1W,12M:1M
 
@@ -68,7 +68,7 @@ Endpoint Systems (Windows / Linux / macOS)
 
 ---
 
-## 🧠 Key Design Decisions
+## Key Design Decisions
 
 - Lifecycle-based archive transition instead of direct Deep Archive write
 - Prefix isolation per device
@@ -78,7 +78,7 @@ Endpoint Systems (Windows / Linux / macOS)
 
 ---
 
-## 📊 Operational Model
+## Operational Model
 
 - Backup scheduling handled by Duplicati
 - Restore validation tested
@@ -87,7 +87,7 @@ Endpoint Systems (Windows / Linux / macOS)
 
 ---
 
-## 🎯 Outcome
+## Outcome
 
 The solution delivers:
 
