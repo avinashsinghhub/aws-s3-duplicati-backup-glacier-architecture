@@ -24,7 +24,7 @@ Design and implement a secure, automated, scalable, and cost-optimized cloud bac
 
 ## Architecture Overview
 
-![Architecture Diagram]([architecture/AAFM backup.png](https://github.com/avinashsinghhub/aws-s3-duplicati-backup-glacier-architecture/blob/2eb95c98257adcd7acbbd24cfb29bdc514f26383/architecture/AAFM%20backup.png))
+![Architecture Diagram]([architecture/AAFM backup.png](https://github.com/avinashsinghhub/aws-s3-duplicati-backup-glacier-architecture/blob/2eb95c98257adcd7acbbd24cfb29bdc514f26383/architecture/Solution%20Architecture.png))
 
 ### Logical Flow
 
