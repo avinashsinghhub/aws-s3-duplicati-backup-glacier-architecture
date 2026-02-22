@@ -1,6 +1,8 @@
 # AWS S3 + Glacier Deep Archive Backup Architecture
 
-Client: American Academy of Financial Management India  
+Client: Confidential Financial Services Organization
+Industry: Financial Services
+Organization Size: 50,000–70,000 endpoints  
 Solution: Automated Encrypted Multi-Device Backup  
 Tool: Duplicati  
 Cloud Platform: Amazon Web Services (AWS)
